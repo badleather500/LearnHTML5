@@ -1,0 +1,20 @@
+/*My Code*/
+body {
+    background-color: #F5F5F5;
+}
+.content {
+    background-color: #DCDCDC;
+    padding: 30px;
+    margin: 10%;
+    max-width: 1000px;
+}
+.form-row {
+    padding: 10px 0;
+    display: flex;
+}
+.form-row label {
+    padding-right: 10px;
+}
+.form-row input {
+    flex: 1;
+}
